@@ -15,3 +15,7 @@ let miVariable
 miVariable = "chanchito"
 miVariable = 42
 
+function Saludar(name: string) :string {
+    return `Hola, mucho gusto ${name}`
+}
+
